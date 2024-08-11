@@ -1,5 +1,1 @@
-hello
-my
-name 
-is 
-logan
+hello my name is logan
